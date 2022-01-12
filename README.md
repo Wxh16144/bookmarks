@@ -4,33 +4,74 @@ title: Bookmarks
 
 # Bookmarks
 
+一些具有优秀设计和用户体验的网站/工具。
+
 <!-- TOC -->
 
 - [Bookmarks](#bookmarks)
   - [Test & Mock](#test--mock)
   - [Coding](#coding)
-  - [Images](#images)
+  - [Img & Emoji](#img--emoji)
+  - [Dev](#dev)
+  - [CSS](#css)
   - [Library](#library)
+  - [Deploy](#deploy)
+  - [Other](#other)
 
 <!-- /TOC -->
 
 ## Test & Mock
 
-- [mockaroo.com API mocking tool](https://www.mockaroo.com/)
-- [Mock.js 生成随机数据](http://mockjs.com/)
-- [Browserslist 浏览器列表查询](https://browserl.ist/)
+- [mockaroo.com](https://www.mockaroo.com/) API mocking tool
+- [Mock.js](http://mockjs.com/) 生成随机数据
+- [Browserslist](https://browserl.ist/) 浏览器列表查询
 
 ## Coding
 
-- [carbon.now.sh 生成漂亮的代码截图](https://carbon.now.sh/)
-- [codepen.io 在线代码编辑器](https://codepen.io/)
+- [carbon](https://carbon.now.sh/) 生成漂亮的代码截图
+- [codepen.io](https://codepen.io/) 在线代码编辑器
+- [codesandbox.io](https://codesandbox.io/) 在线代码编辑器
+- [JS Bin](https://jsbin.com/?html,js,console) 在线调试/运行代码
+- [glitch.com](https://glitch.com/) 浏览器中快速构建项目
 
-## Images
+## Img & Emoji
 
-- [placekitten.com 小猫咪占位图](https://placekitten.com/)
-- [placeholder 图片占位符](https://placeholder.com/)
-- [twicpics.com 图像占位符](https://discover.twicpics.com/en/placeholder)
+- [placekitten.com](https://placekitten.com/) 小猫咪占位图
+- [placeholder.com](https://placeholder.com/) 图片占位符
+- [twicpics.com](https://discover.twicpics.com/en/placeholder) 图像占位符
+- [Emojipedia](https://emojipedia.org/) Emoji 搜索引擎
+- [gitmoji](https://gitmoji.carloscuesta.me/) Git Commit Emoji
+- [Simple Icons](https://simpleicons.org/) 2000+ 流行品牌的免费 SVG 图标
+- [Text to ASCII Art Generator](https://patorjk.com/software/taag) 文本 ASCII 码生成器
+- [Icônes](https://icones.js.org/) 图标资源
+
+## Dev
+
+- [postcss.parts](https://www.postcss.parts/) 搜索可用的 postcss 插件
+- [bundlephobia.com](https://bundlephobia.com/) 检查你的 npm 大小
+- [packagephobia.com](https://packagephobia.com/) 检查 npm 包安装大小
+- [npm-stat](https://npm-stat.com/) 生成 npm 包下载图表
+- [Shields.io](https://shields.io/) 开源项目的数据徽章
+- [any-rule](https://any86.github.io/any-rule) 常用正则表达式
+- [Regexper](https://regexper.com/) 正则表达式校验
+- [matools.com/crontab](https://www.matools.com/crontab?embed) 在线 crontab 执行时间计算
+
+## CSS
+
+- [cubic-bezier](https://cubic-bezier.com/) CSS 贝塞尔曲线可视化
+- [loading.io](https://loading.io/) 自定义 loading 动画图标
+- [Flexbox Froggy](https://flexboxfroggy.com/) 一个学习 CSS Flexbox 的游戏
+- [CSS Sprites Generator](https://www.toptal.com/developers/css/sprite-generator) 在线生成雪碧图
 
 ## Library
 
-- [formatjs 国际化](https://formatjs.io/)
+- [formatjs](https://formatjs.io/) 国际化
+- [Stylelint](https://stylelint.io/) Style 检查工具 
+
+## Deploy
+
+- [Vercel](https://vercel.com/) Deploy web projects
+
+## Other
+
+- [MikuTools](https://tools.miku.ac/) 一个轻量的工具集合
