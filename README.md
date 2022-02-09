@@ -33,6 +33,7 @@ title: Bookmarks
 - [codesandbox.io](https://codesandbox.io/) 在线代码编辑器
 - [JS Bin](https://jsbin.com/?html,js,console) 在线调试/运行代码
 - [glitch.com](https://glitch.com/) 浏览器中快速构建项目
+- [Riju](https://riju.codes/) 几乎所有编程语 online playground
 
 ## Img & Emoji
 
@@ -41,7 +42,8 @@ title: Bookmarks
 - [twicpics.com](https://discover.twicpics.com/en/placeholder) 图像占位符
 - [Emojipedia](https://emojipedia.org/) Emoji 搜索引擎
 - [gitmoji](https://gitmoji.carloscuesta.me/) Git Commit Emoji
-- [Simple Icons](https://simpleicons.org/) 2000+ 流行品牌的免费 SVG 图标
+- [Simple Icons](https://simpleicons.org/) 2,000+ 流行品牌的免费 SVG 图标
+- [iconduck](https://iconduck.com/) 118,894 个免费的开源图标和插图
 - [Text to ASCII Art Generator](https://patorjk.com/software/taag) 文本 ASCII 码生成器
 - [Icônes](https://icones.js.org/) 图标资源
 
@@ -60,13 +62,20 @@ title: Bookmarks
 
 - [cubic-bezier](https://cubic-bezier.com/) CSS 贝塞尔曲线可视化
 - [loading.io](https://loading.io/) 自定义 loading 动画图标
+- [Whirl](https://whirl.netlify.app/) CSS loading 动画
 - [Flexbox Froggy](https://flexboxfroggy.com/) 一个学习 CSS Flexbox 的游戏
 - [CSS Sprites Generator](https://www.toptal.com/developers/css/sprite-generator) 在线生成雪碧图
+- [CSS Layout Generator](https://layout.bradwoods.io/) 交互式在线编辑 CSS 布局代码
+- [Glassmorphism CSS Generator](https://ui.glass/generator/) 毛玻璃 CSS 生成
+- [Buttons Generator](https://markodenic.com/tools/buttons-generator/) 按钮 CSS 生成
+- [animate.css](https://animate.style/) CSS 过渡动画
+- [transition.css](https://www.transition.style/) CSS 过渡动画
+- [Beautiful CSS Buttons](https://getcssscan.com/css-buttons-examples) 漂亮的 Button CSS
 
 ## Library
 
 - [formatjs](https://formatjs.io/) 国际化
-- [Stylelint](https://stylelint.io/) Style 检查工具 
+- [Stylelint](https://stylelint.io/) Style 检查工具
 
 ## Deploy
 
