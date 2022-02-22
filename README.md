@@ -24,6 +24,7 @@ title: Bookmarks
 
 - [mockaroo.com](https://www.mockaroo.com/) API mocking tool
 - [Mock.js](http://mockjs.com/) 生成随机数据
+- [httpbin](https://httpbin.org/) 简单的HTTP请求和响应服务
 - [Browserslist](https://browserl.ist/) 浏览器列表查询
 
 ## Coding
@@ -40,6 +41,7 @@ title: Bookmarks
 - [placekitten.com](https://placekitten.com/) 小猫咪占位图
 - [placeholder.com](https://placeholder.com/) 图片占位符
 - [twicpics.com](https://discover.twicpics.com/en/placeholder) 图像占位符
+- [Images.weserv.nl](https://images.weserv.nl/) 图片缓存和大小调整服务
 - [Emojipedia](https://emojipedia.org/) Emoji 搜索引擎
 - [gitmoji](https://gitmoji.carloscuesta.me/) Git Commit Emoji
 - [Simple Icons](https://simpleicons.org/) 2,000+ 流行品牌的免费 SVG 图标
@@ -49,6 +51,7 @@ title: Bookmarks
 
 ## Dev
 
+- [Create App](https://createapp.dev/) 前端构建配置生成器
 - [postcss.parts](https://www.postcss.parts/) 搜索可用的 postcss 插件
 - [bundlephobia.com](https://bundlephobia.com/) 检查你的 npm 大小
 - [packagephobia.com](https://packagephobia.com/) 检查 npm 包安装大小
