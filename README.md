@@ -24,6 +24,8 @@ title: Bookmarks
 
 - [mockaroo.com](https://www.mockaroo.com/) API mocking tool
 - [Mock.js](http://mockjs.com/) 生成随机数据
+- [FakeJSON](https://app.fakejson.com/) 可定制假数据服务
+- [My JSON Server](https://my-json-server.typicode.com/) JSON数据服务
 - [httpbin](https://httpbin.org/) 简单的HTTP请求和响应服务
 - [Browserslist](https://browserl.ist/) 浏览器列表查询
 
