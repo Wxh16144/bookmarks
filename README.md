@@ -24,6 +24,8 @@ title: Bookmarks
 
 - [mockaroo.com](https://www.mockaroo.com/) API mocking tool
 - [Mock.js](http://mockjs.com/) 生成随机数据
+- [FakeJSON](https://app.fakejson.com/) 可定制假数据服务
+- [My JSON Server](https://my-json-server.typicode.com/) JSON数据服务
 - [httpbin](https://httpbin.org/) 简单的HTTP请求和响应服务
 - [Browserslist](https://browserl.ist/) 浏览器列表查询
 
@@ -56,6 +58,7 @@ title: Bookmarks
 - [bundlephobia.com](https://bundlephobia.com/) 检查你的 npm 大小
 - [packagephobia.com](https://packagephobia.com/) 检查 npm 包安装大小
 - [npm-stat](https://npm-stat.com/) 生成 npm 包下载图表
+- [npm trends](https://www.npmtrends.com/) 比较 npm 下载趋势
 - [Shields.io](https://shields.io/) 开源项目的数据徽章
 - [any-rule](https://any86.github.io/any-rule) 常用正则表达式
 - [Regexper](https://regexper.com/) 正则表达式校验
@@ -87,3 +90,4 @@ title: Bookmarks
 ## Other
 
 - [MikuTools](https://tools.miku.ac/) 一个轻量的工具集合
+- [Code Beautify](https://codebeautify.org/) 免费的在线格式化代码工具
