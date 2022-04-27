@@ -47,6 +47,7 @@ title: Bookmarks
 - [Emojipedia](https://emojipedia.org/) Emoji 搜索引擎
 - [gitmoji](https://gitmoji.carloscuesta.me/) Git Commit Emoji
 - [Simple Icons](https://simpleicons.org/) 2,000+ 流行品牌的免费 SVG 图标
+- [SVG PORN](https://svgporn.com/) 开发人员、设计师、博客作者、极客等的SVG徽标
 - [iconduck](https://iconduck.com/) 118,894 个免费的开源图标和插图
 - [Text to ASCII Art Generator](https://patorjk.com/software/taag) 文本 ASCII 码生成器
 - [Icônes](https://icones.js.org/) 图标资源
