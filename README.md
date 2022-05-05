@@ -62,6 +62,8 @@ title: Bookmarks
 - [npm trends](https://www.npmtrends.com/) 比较 npm 下载趋势
 - [Shields.io](https://shields.io/) 开源项目的数据徽章
 - [any-rule](https://any86.github.io/any-rule) 常用正则表达式
+- [Regulex](https://jex.im/regulex) JavaScript 正则表达式可视化工具
+- [Regex101](https://regex101.com) 多语言正则表达式调试器
 - [Regexper](https://regexper.com/) 正则表达式校验
 - [matools.com/crontab](https://www.matools.com/crontab?embed) 在线 crontab 执行时间计算
 
