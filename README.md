@@ -6,6 +6,9 @@ title: Bookmarks
 
 一些具有优秀设计和用户体验的网站/工具。
 
+[![Website](https://img.shields.io/website?style=for-the-badge&up_message=wxhboy.cn%2Fbookmarks&url=https%3A%2F%2Fwxhboy.cn%2Fbookmarks)](https://wxhboy.cn/bookmarks)
+[![GitHub Repo stars](https://img.shields.io/github/stars/Wxh16144/bookmarks?label=Source%20Code&style=for-the-badge)](https://github.com/Wxh16144/bookmarks)
+
 <!-- TOC -->
 
 - [Bookmarks](#bookmarks)
@@ -62,6 +65,8 @@ title: Bookmarks
 - [npm trends](https://www.npmtrends.com/) 比较 npm 下载趋势
 - [Shields.io](https://shields.io/) 开源项目的数据徽章
 - [any-rule](https://any86.github.io/any-rule) 常用正则表达式
+- [Regulex](https://jex.im/regulex) JavaScript 正则表达式可视化工具
+- [Regex101](https://regex101.com) 多语言正则表达式调试器
 - [Regexper](https://regexper.com/) 正则表达式校验
 - [matools.com/crontab](https://www.matools.com/crontab?embed) 在线 crontab 执行时间计算
 
