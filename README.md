@@ -6,6 +6,9 @@ title: Bookmarks
 
 一些具有优秀设计和用户体验的网站/工具。
 
+[![Website](https://img.shields.io/website?style=for-the-badge&up_message=wxhboy.cn%2Fbookmarks&url=https%3A%2F%2Fwxhboy.cn%2Fbookmarks)](https://wxhboy.cn/bookmarks)
+[![GitHub Repo stars](https://img.shields.io/github/stars/Wxh16144/bookmarks?label=Source%20Code&style=for-the-badge)](https://github.com/Wxh16144/bookmarks)
+
 <!-- TOC -->
 
 - [Bookmarks](#bookmarks)
