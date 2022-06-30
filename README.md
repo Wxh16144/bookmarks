@@ -19,6 +19,7 @@ title: Bookmarks
   - [CSS](#css)
   - [Library](#library)
   - [Deploy](#deploy)
+  - [Standards](#standards)
   - [Other](#other)
 
 <!-- /TOC -->
@@ -92,6 +93,11 @@ title: Bookmarks
 ## Deploy
 
 - [Vercel](https://vercel.com/) Deploy web projects
+
+## Standards
+
+- [W3C Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/ARIA/apg/) W3C 无障碍访问策略标准
+- [Unicode® Standard](https://home.unicode.org/) Unicode
 
 ## Other
 
