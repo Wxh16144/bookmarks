@@ -47,6 +47,7 @@ title: Bookmarks
 - [placekitten.com](https://placekitten.com/) 小猫咪占位图
 - [placeholder.com](https://placeholder.com/) 图片占位符
 - [twicpics.com](https://discover.twicpics.com/en/placeholder) 图像占位符
+- [Joe Schmoe](https://joeschmoe.io/) 插图头像收藏
 - [Images.weserv.nl](https://images.weserv.nl/) 图片缓存和大小调整服务
 - [Emojipedia](https://emojipedia.org/) Emoji 搜索引擎
 - [gitmoji](https://gitmoji.carloscuesta.me/) Git Commit Emoji
