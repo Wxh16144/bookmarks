@@ -56,6 +56,7 @@ title: Bookmarks
 - [iconduck](https://iconduck.com/) 118,894 个免费的开源图标和插图
 - [Text to ASCII Art Generator](https://patorjk.com/software/taag) 文本 ASCII 码生成器
 - [Icônes](https://icones.js.org/) 图标资源
+- [macOS App icons](https://macosicons.com/) 5000+ macOS 应用程序图标
 
 ## Dev
 
