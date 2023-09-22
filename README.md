@@ -69,6 +69,7 @@ title: Bookmarks
 - [Are the types wrong?](https://arethetypeswrong.github.io/) 检测一个 npm package 的 typescript 类型配置在各种 moduleResolution 是否会出现问题
 - [publint](https://publint.dev/) 检测 target pattern 对应的文件是否存在
 - [npmgraph.an](https://npm.anvaka.com/) 显示了npm包的依赖关系图。
+- [npmview](https://npmview.vercel.app/) 查看 npm 包产物 （中国大陆可以使用 [npmmirror.com](https://npmmirror.com/)）
 - [Shields.io](https://shields.io/) 开源项目的数据徽章
 - [any-rule](https://any86.github.io/any-rule) 常用正则表达式
 - [Regulex](https://jex.im/regulex) JavaScript 正则表达式可视化工具
