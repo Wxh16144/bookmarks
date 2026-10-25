@@ -1,0 +1,22 @@
+name: Notify Blog
+
+# bookmarks 仓库 push 到 main 后，若 README 有更新，通知主博客仓库重新构建。
+# 用 paths 过滤：只有 README.md 变更才触发，纯 CI 改动不会无意义地打扰博客。
+# 跨仓库触发需要 PAT（contents: write），复用本仓库已配置的 MY_TOKEN secret。
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'README.md'
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger blog rebuild
+        run: |
+          curl -sS -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.MY_TOKEN }}" \
+            https://api.github.com/repos/Wxh16144/wxh16144.github.io/dispatches \
+            -d '{"event_type":"bookmarks-updated"}'
