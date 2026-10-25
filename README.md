@@ -32,6 +32,7 @@ title: Bookmarks
 - [My JSON Server](https://my-json-server.typicode.com/) JSON数据服务
 - [httpbin](https://httpbin.org/) 简单的HTTP请求和响应服务
 - [Browserslist](https://browserl.ist/) 浏览器列表查询
+- [Mockium](https://softwium.com/mockium/) 生成随机数据
 
 ## Coding
 
@@ -77,6 +78,7 @@ title: Bookmarks
 - [Regex101](https://regex101.com) 多语言正则表达式调试器
 - [Regexper](https://regexper.com/) 正则表达式校验
 - [matools.com/crontab](https://www.matools.com/crontab?embed) 在线 crontab 执行时间计算
+- [Pyrexp](https://pythonium.net/regex) Python 正则表达式调试器和可视化工
 
 ## CSS
 
